@@ -50,7 +50,7 @@ If you find this project useful for your research or if you reference it in your
   author = {Mohammed Abuibaid},
   title = {Comparison of Adaptive Beamforming Algorithms},
   year = {2016},
-  howpublished = {\url{https://github.com/[YourUsername]/[YourRepositoryName]}},
+  howpublished = {\url{https://github.com/MohammedAbuibaid/AdaptiveBeamformingAlgorithms}},
   note = {GitHub repository}
 }
 ```
