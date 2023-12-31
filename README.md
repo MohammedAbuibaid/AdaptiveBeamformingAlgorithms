@@ -45,7 +45,7 @@ Project presentation slides: [Adaptive Beamforming Algorithms - Slide Presentati
 #### Citation
 If you find this project useful for your research or if you reference it in your work, please consider citing it.
 
-```
+```bibtex
 @misc{AbuibaidM2016Beamforming,
   author = {Mohammed Abuibaid},
   title = {Comparison of Adaptive Beamforming Algorithms},
